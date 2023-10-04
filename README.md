@@ -1,18 +1,8 @@
-# DOCKER TEMPLATE
+# Fruits And Vegetables
 
-## BASE Template
+1. Fork this project
+2. Clone this project
 
-You can use this template to create many repositories and have the default microservices at your disposal when developing your webapp.
-
-## Start 
-**Follow these steps to make it work for your project**
-
-### Use Template
-
-1. Press the green button that says `Use this template`
-2. Choose `Create a new repository`
-3. Now give your repo a correct name, i.e. myfirstproject
-4. Clone the project to your development machine
 
 ### Set your project
 
